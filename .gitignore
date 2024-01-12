@@ -7,3 +7,5 @@ logs/
 .env.template
 
 .DS_store
+
+mongo/
